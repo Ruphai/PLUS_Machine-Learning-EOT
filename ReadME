@@ -1,4 +1,4 @@
-This Project is done as end semester assignment of course Intro to Machine Learning and Data science
-Group Member : Hira Zafar, Ruphai Omowunmi Balogun
+End of Term Project for the Introduction to Data Science and Machine Learning for Geospatial Data. After an exploratory visual analysis of the data, two Recurrent Neural Networks architectures -- LSTM and GRU were tested for their performance in predicting the trajectory of the hurricane. 
 
+Group Member : Hira Zafar, Rufai Omowunmi Balogun
 There are two jupyter notebooks one for EDA and the other shows the model creation and comparison
